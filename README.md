@@ -1,2 +1,5 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+简介: C语言编程开发、系统编程、GTK+图形界面库、ARM硬件驱动及使用、UART通信等软硬件开发、C Shell脚本开发、应用开发、服务器开发
+
+本项目是基于Linux开发的一款成熟项目，使用场景为家庭陪伴，将产品放置客厅可直接使用语音进行控制音响进行上一曲、下一曲、暂停播放控制等功能
+也可以在家里的局域网范围内使用Siri（苹果手机）、小爱（小米用户）、小布（vivo用户）进行多生态控制。
+主要硬件包括：电脑
